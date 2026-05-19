@@ -1,0 +1,13 @@
+body {
+  background-color: #fcfcfc;
+}
+p {
+  background-color: aqua;
+  color: #ea6200;
+  font-size: 80px;
+}
+p:hover {
+  color: #ea6201;
+  font-size: 85px;
+  scale: calc();
+}
