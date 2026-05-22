@@ -5,5 +5,9 @@ Week6/
 Week7/
 Week9/
 Week11/
-Week12/
+
+Week12/*
+!Week12/myBlog.html
+!Week12/*.png
+
 .DS_Store
